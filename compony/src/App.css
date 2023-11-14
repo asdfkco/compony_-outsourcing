@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-family: 'EASTARJET-Medium';
+    
+}
+@font-face {
+    font-family: YJ_Obang_OTF;
+    src: url('./font/YJ_Obang_OTF.otf');
+}
+@font-face {
+    font-family: 'EASTARJET-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/EASTARJET-Medium.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+html { 
+    scroll-behavior: smooth;
+}
